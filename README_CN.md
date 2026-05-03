@@ -4,7 +4,7 @@
 
 ![访客统计](https://komarev.com/ghpvc/?username=bill74186&color=007acc&style=flat-square)
 ![获星数量](https://img.shields.io/github/stars/bill74186?style=flat-square&color=gold)
-![获叉数量](https://img.shields.io/github/followers/bill74186?style=flat-square&color=blue)
+![获花数量](https://img.shields.io/github/followers/bill74186?style=flat-square&color=blue)
 
 [English](README.md) | **简体中文**
 
