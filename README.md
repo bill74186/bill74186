@@ -6,13 +6,14 @@
 ![Stars](https://img.shields.io/github/stars/bill74186?style=flat-square&color=gold)
 ![Followers](https://img.shields.io/github/followers/bill74186?style=flat-square&color=blue)
 
-</div>
-
 **English** | [简体中文](README_CN.md)
+
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
+
 **Real Name**: Secret🤓<br>
 **Age**: Just turned eighteen<br>
 **Alias**: bill74186👍<br>
@@ -38,12 +39,14 @@
 ## 📂 Open Source Projects
 
 ### 🎮 2048-Game
+
 **Chinese Name**: 2048小游戏<br>
 **Introduction**: A smooth 2048 game with support for over 30 languages<br>
 **Repository**: https://github.com/bill74186/bill74186.github.io<br>
 **Online Demo**: https://bill74186.github.io
 
 ### ⛔ nothing-else
+
 **Chinese Name**: 没有其他项目了<br>
 **Introduction**: There are no other projects<br>
 **Repository**: Just padding content👴<br>
@@ -55,6 +58,7 @@
 > Will improve sooner or later🙄
 
 ## ✨ Personal Features
+
 - [x] Focus on project details, interface interaction and operation experience
 - [x] All projects adopt unified standardized naming and file structure
 - [x] Adhere to streamlined code & short class names with semantic structure

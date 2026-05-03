@@ -6,13 +6,14 @@
 ![获星数量](https://img.shields.io/github/stars/bill74186?style=flat-square&color=gold)
 ![获叉数量](https://img.shields.io/github/followers/bill74186?style=flat-square&color=blue)
 
-</div>
-
 [English](README.md) | **简体中文**
+
+</div>
 
 ---
 
 ## 🧑‍💻 关于我
+
 **姓名**: 就不告诉你🤓<br>
 **年龄**: 刚满十八岁~<br>
 **网名**: bill74186👍<br>
@@ -50,6 +51,7 @@
 **项目简绍**: There are no other projects<br>
 **项目仓库**: 只是为了添字数罢了👴<br>
 **在线体验**: Just to add words, haha😁
+
 ## 📊 GitHub 数据展示
 
 >现在还没有啥东西<br>
