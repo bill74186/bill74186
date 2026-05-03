@@ -2,73 +2,74 @@
 
 # 👋 Hi,I'm bill74186
 
-![访客统计](https://komarev.com/ghpvc/?username=bill74186&color=007acc&style=flat-square)
-![获星数量](https://img.shields.io/github/stars/bill74186?style=flat-square&color=gold)
-![获叉数量](https://img.shields.io/github/followers/bill74186?style=flat-square&color=blue)
+![Visitors](https://komarev.com/ghpvc/?username=bill74186&color=007acc&style=flat-square)
+![Stars](https://img.shields.io/github/stars/bill74186?style=flat-square&color=gold)
+![Followers](https://img.shields.io/github/followers/bill74186?style=flat-square&color=blue)
 
 </div>
 
+**English** | [简体中文](README_CN.md)
+
 ---
 
-## 🧑‍💻 关于我
-**姓名**: 就不告诉你🤓<br>
-**年龄**: 刚满十八岁~<br>
-**网名**: bill74186👍<br>
-**追求**: 极简几何、丝滑操作、统一视觉<br>
-**擅长**: 前端调试、移动适配、手感优化<br>
+## 🧑‍💻 About Me
+**Real Name**: Secret🤓<br>
+**Age**: Just turned eighteen<br>
+**Alias**: bill74186👍<br>
+**Pursuit**: Minimalist geometry, silky operation and unified visual style<br>
+**Strengths**: Front-end debugging, mobile adaptation & operating feel optimization
 
 > [!note]
-> 日常热衷于迭代开源作品，对UI排版、间距规范、代码洁癖、安全加密有极高要求。
+> I am keen on iterating open-source works. I hold extremely strict standards for UI layout, spacing specification, code cleanliness and security encryption.
 
-## 🛠 技术栈
+## 🛠 Tech Stack
 
-| 分类 | 掌握内容 |
+| Category | Skills |
 | :--- | :--- |
-| 前端核心 | HTML5｜CSS3｜原生JavaScript｜ES6 |
-| 常用类库 | jQuery 3.7.1｜Font Awesome 6.4.0 |
-| 游戏开发 | Canvas 2D渲染｜原生游戏逻辑｜滑动手势优化 |
-| 移动适配 | 全机型兼容｜触摸逻辑调试｜误触修复｜顺滑交互 |
-| 代码安全 | JS代码混淆｜文件伪装｜编码规范｜资源加密 |
-| 国际开发 | 多语言独立HTML｜全局语言架构｜多语种排版 |
-| 项目管理 | Git版本控制｜Changelog日志｜MIT开源规范 |
-| 辅助技能 | Shell指令｜Markdown排版｜VSCode深度配置 |
+| Core Frontend | HTML5｜CSS3｜Vanilla JavaScript｜ES6 |
+| Common Libraries | jQuery 3.7.1｜Font Awesome 6.4.0 |
+| Game Development | Canvas 2D Rendering｜Native game logic｜Slide gesture optimization |
+| Mobile Adaptation | Full device compatibility｜Touch logic debugging｜Mis-touch fix & fluent interaction |
+| Code Security | JS obfuscation｜File disguise｜Coding standard｜Resource encryption |
+| Internationalization | Multilingual independent HTML｜Global language architecture｜Multilingual typesetting |
+| Project Management | Git version control｜Changelog log｜MIT open-source specification |
+| Auxiliary Skills | Shell commands｜Markdown typesetting｜Advanced VSCode configuration |
 
-## 📂 开源项目
+## 📂 Open Source Projects
 
 ### 🎮 2048-Game
-
-**中文名称**: 2048小游戏<br>
-**项目简绍**: A smooth 2048 game with 30+ languages support<br>
-**仓库仓库**: https://github.com/bill74186/bill74186.github.io<br>
-**在线体验**: https://bill74186.github.io
+**Chinese Name**: 2048小游戏<br>
+**Introduction**: A smooth 2048 game with support for over 30 languages<br>
+**Repository**: https://github.com/bill74186/bill74186.github.io<br>
+**Online Demo**: https://bill74186.github.io
 
 ### ⛔ nothing-else
+**Chinese Name**: 没有其他项目了<br>
+**Introduction**: There are no other projects<br>
+**Repository**: Just padding content👴<br>
+**Online Demo**: Just to add words, haha😁
 
-**中文名称**: 没有其他项目了<br>
-**项目简绍**: There are no other projects<br>
-**项目仓库**: 只是为了添字数罢了👴<br>
-**在线体验**: Just to add words, haha😁
-## 📊 GitHub 数据展示
+## 📊 GitHub Statistics
 
->现在还没有啥东西<br>
->等以后再说🙄
+> Nothing much for now<br>
+> Will improve sooner or later🙄
 
-## ✨个人特点
-- [x] 注重项目细节、界面交互、操作手感
-- [x] 所有项目统一规范化命名与文件结构
-- [x] 坚持精简代码和类名、结构语义化
-- [x] 习惯长期迭代旧项目，不断优化完善
+## ✨ Personal Features
+- [x] Focus on project details, interface interaction and operation experience
+- [x] All projects adopt unified standardized naming and file structure
+- [x] Adhere to streamlined code & short class names with semantic structure
+- [x] Used to iterate and optimize old projects for a long time
 
-## 📬联系与交流
+## 📬 Contact
 
-- 欢迎参观我的**项目仓库**！
-- 如有**项目建议**、**代码交流**、**bug反馈**都可以随时私信我
-- **Github**: `https://github.com/bill74186`
+- Welcome to visit my **project repository**！
+- Feel free to contact me for **project suggestions**, **code communication** and **bug feedback**
+- **GitHub**: `https://github.com/bill74186`
 - **QQ**: `3854052547`
-- **邮箱**: `bill74186@outlook.com`
+- **Email**: `bill74186@outlook.com`
 
 ---
 
 > [!tip]
-> ⭐每一颗星星都是对我最大的鼓励<br>
-> 🌞里面说的很多东西都是假的
+> ⭐Every star is the greatest encouragement to me
+> 🌞Most of the introduction above is fake
