@@ -45,6 +45,13 @@
 **Repository**: https://github.com/bill74186/bill74186.github.io<br>
 **Online Demo**: https://bill74186.github.io
 
+### ⏰ Nice-Clock
+
+**Chinese Name**: 漂亮闹钟<br>
+**Introduction**: An alarm clock made by bill74186<br>
+**Repository**: https://github.com/bill74186/Nice-Clock<br>
+**Online Demo**: https://bill74186.github.io/Nice-Clock
+
 ### ⛔ nothing-else
 
 **Chinese Name**: 没有其他项目了<br>
