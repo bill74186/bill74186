@@ -6,7 +6,7 @@
 ![Stars](https://img.shields.io/github/stars/bill74186?style=flat-square&color=gold)
 ![Followers](https://img.shields.io/github/followers/bill74186?style=flat-square&color=blue)
 
-**English** | [简体中文](README_CN.md)
+**English** | [简体中文](README-CN.md)
 
 </div>
 
