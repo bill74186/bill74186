@@ -42,8 +42,8 @@
 
 **Chinese Name**: 2048小游戏<br>
 **Introduction**: A smooth 2048 game with support for over 30 languages<br>
-**Repository**: https://github.com/bill74186/bill74186.github.io<br>
-**Online Demo**: https://bill74186.github.io
+**Repository**: https://github.com/bill74186/2048-Game<br>
+**Online Demo**: https://bill74186.github.io/2048-Game
 
 ### ⏰ Nice-Clock
 
