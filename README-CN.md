@@ -42,8 +42,8 @@
 
 **中文名称**: 2048小游戏<br>
 **项目简绍**: A smooth 2048 game with 30+ languages support<br>
-**仓库仓库**: https://github.com/bill74186/bill74186.github.io<br>
-**在线体验**: https://bill74186.github.io
+**仓库仓库**: https://github.com/bill74186/2048-Game<br>
+**在线体验**: https://bill74186.github.io/2048-Game
 
 ### ⏰ Nice-Clock
 
