@@ -8,7 +8,7 @@
 
 [English](README.md) | **简体中文**
 
-![Made with ❤️ by TACS Studio](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-TACS%20Studio-ff69b4)]
+![Made with ❤️ by bill74186](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-bill74186-ff69b4)
 
 </div>
 
