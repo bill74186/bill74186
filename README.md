@@ -38,6 +38,13 @@
 
 ## 📂 Open Source Projects
 
+### 📕 Bill-Blog
+
+**Chinese Name**: 「Bill 博客」<br>
+**Introduction**: 「Bill Blog」, My Personal Blog<br>
+**Repository**: https://github.com/bill74186/bill74186.github.io<br>
+**Online Demo**: https://bill74186.github.io
+
 ### 🎮 2048-Game
 
 **Chinese Name**: 2048小游戏<br>
@@ -51,6 +58,13 @@
 **Introduction**: An alarm clock made by bill74186<br>
 **Repository**: https://github.com/bill74186/Nice-Clock<br>
 **Online Demo**: https://bill74186.github.io/Nice-Clock
+
+### ⭐️ SVG-Viewer
+
+**Chinese Name**: SVG 查看器<br>
+**Introduction**: A project where you can view SVG icons offline<br>
+**Repository**: https://github.com/bill74186/SVG-Viewer<br>
+**Online Demo**: https://bill74186.github.io/SVG-Viewer
 
 ### ⛔ nothing-else
 

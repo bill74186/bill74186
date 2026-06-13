@@ -38,6 +38,13 @@
 
 ## 📂 开源项目
 
+### 📕 Bill-Blog
+
+**中文名称**: 「Bill 博客」<br>
+**项目简绍**: 「Bill Blog」, My Personal Blog<br>
+**仓库仓库**: https://github.com/bill74186/bill74186.github.io<br>
+**在线体验**: https://bill74186.github.io
+
 ### 🎮 2048-Game
 
 **中文名称**: 2048小游戏<br>
@@ -51,6 +58,13 @@
 **项目简绍**: An alarm clock made by bill74186<br>
 **仓库仓库**: https://github.com/bill74186/Nice-Clock<br>
 **在线体验**: https://bill74186.github.io/Nice-Clock
+
+### ⭐️ SVG-Viewer
+
+**中文名称**: SVG 查看器<br>
+**项目简绍**: A project where you can view SVG icons offline<br>
+**仓库仓库**: https://github.com/bill74186/SVG-Viewer<br>
+**在线体验**: https://bill74186.github.io/SVG-Viewer
 
 ### ⛔ nothing-else
 
