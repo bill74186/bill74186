@@ -77,8 +77,11 @@
 
 ## 📊 GitHub Statistics
 
-> Nothing much for now<br>
-> Will improve sooner or later🙄
+[![Star History Chart](https://api.star-history.com/svg?repos=bill74186/bill74186.github.io,bill74186/bill74186,bill74186/AI-Chat,bill74186/2048-Game&type=Date)](https://star-history.com/#bill74186/bill74186.github.io&bill74186/bill74186&bill74186/AI-Chat&bill74186/2048-Game&Date)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bill74186)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=bill74186)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ✨ Personal Features
 
@@ -100,3 +103,5 @@
 > [!tip]
 > ⭐Every star is the greatest encouragement to me
 > 🌞Most of the introduction above is fake
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=500&color=74FF66EF&width=500&lines=Thank+you+for+visiting!;I'm+waiting+for+you+again.;Have+a+good+day!;That's+OK.;bill74186.github.io;bill74186+yyds;I+Love,+You~)](https://git.io/typing-svg)

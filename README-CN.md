@@ -77,8 +77,11 @@
 
 ## 📊 GitHub 数据展示
 
->现在还没有啥东西<br>
->等以后再说🙄
+[![星历图](https://api.star-history.com/svg?repos=bill74186/bill74186.github.io,bill74186/bill74186,bill74186/AI-Chat,bill74186/2048-Game&type=Date)](https://star-history.com/#bill74186/bill74186.github.io&bill74186/bill74186&bill74186/AI-Chat&bill74186/2048-Game&Date)
+
+[![Anurag统计](https://github-readme-stats.vercel.app/api?username=bill74186)](https://github.com/anuraghazra/github-readme-stats)
+
+[![常用语言](https://github-readme-stats.vercel.app/api/top-langs?username=bill74186)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ✨个人特点
 - [x] 注重项目细节、界面交互、操作手感
@@ -99,3 +102,5 @@
 > [!tip]
 > ⭐每一颗星星都是对我最大的鼓励<br>
 > 🌞里面说的很多东西都是假的
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=500&color=74FF66EF&width=500&lines=感谢你的访问！;期待与你再见;祝你每天开心！;目标决定你成为什么样的人！;bill74186.github.io;bill74186+永远的神;我喜欢你~)](https://git.io/typing-svg)
