@@ -12,6 +12,8 @@
 
 </div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=500&color=1677ff&width=500&lines=Thank+you+for+visiting!;I'm+waiting+for+you+again.;Have+a+good+day!;Your goals+decide+what+kind+of person+you'll+become!;bill74186.github.io;bill74186+yyds;I+Love,+You~)](https://git.io/typing-svg)
+
 ---
 
 ## 🧑‍💻 About Me
@@ -21,6 +23,7 @@
 **Alias**: bill74186👍<br>
 **Pursuit**: Minimalist geometry, silky operation and unified visual style<br>
 **Strengths**: Front-end debugging, mobile adaptation & operating feel optimization
+**Motto**: Your goals decide what kind of person you'll become!
 
 > [!note]
 > I am keen on iterating open-source works. I hold extremely strict standards for UI layout, spacing specification, code cleanliness and security encryption.
@@ -103,5 +106,3 @@
 > [!tip]
 > ⭐Every star is the greatest encouragement to me
 > 🌞Most of the introduction above is fake
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=500&color=74FF66EF&width=500&lines=Thank+you+for+visiting!;I'm+waiting+for+you+again.;Have+a+good+day!;That's+OK.;bill74186.github.io;bill74186+yyds;I+Love,+You~)](https://git.io/typing-svg)

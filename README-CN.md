@@ -12,6 +12,8 @@
 
 </div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=500&color=1677ff&width=500&lines=感谢你的访问！;期待与你再见;祝你每天开心！;目标决定你将成为什么样的人！;bill74186.github.io;bill74186+永远的神;我喜欢你~)](https://git.io/typing-svg)
+
 ---
 
 ## 🧑‍💻 关于我
@@ -21,6 +23,7 @@
 **网名**: bill74186👍<br>
 **追求**: 极简几何、丝滑操作、统一视觉<br>
 **擅长**: 前端调试、移动适配、手感优化<br>
+**名言**: 目标决定你将成为什么样的人！
 
 > [!note]
 > 日常热衷于迭代开源作品，对UI排版、间距规范、代码洁癖、安全加密有极高要求。
@@ -102,5 +105,3 @@
 > [!tip]
 > ⭐每一颗星星都是对我最大的鼓励<br>
 > 🌞里面说的很多东西都是假的
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=500&color=74FF66EF&width=500&lines=感谢你的访问！;期待与你再见;祝你每天开心！;目标决定你成为什么样的人！;bill74186.github.io;bill74186+永远的神;我喜欢你~)](https://git.io/typing-svg)
