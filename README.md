@@ -12,7 +12,7 @@
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=500&color=1677ff&width=500&lines=Thank+you+for+visiting!;I'm+waiting+for+you+again.;Have+a+good+day!;Your goals+decide+what+kind+of person+you'll+become!;bill74186.github.io;bill74186+yyds;I+Love,+You~)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=500&color=1677ff&width=500&lines=Thank+you+for+visiting!;I'm+waiting+for+you+again.;Have+a+good+day!;Your+goals+decide+what+kind+of+person+you'll+become!;bill74186.github.io;bill74186+yyds;I+Love,+You~)](https://git.io/typing-svg)
 
 ---
 
