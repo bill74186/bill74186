@@ -26,7 +26,8 @@
 **名言**: 目标决定你将成为什么样的人！
 
 > [!note]
-> 日常热衷于迭代开源作品，对UI排版、间距规范、代码洁癖、安全加密有极高要求。
+> 日常热衷于迭代开源作品，对UI排版、间距规范、代码洁癖、安全加密有极高要求。<br>
+> 目前正在尝试网络页面游戏与应用相关的领域
 
 ## 🛠 技术栈
 
@@ -57,6 +58,13 @@
 **仓库仓库**: https://github.com/bill74186/2048-Game<br>
 **在线体验**: https://bill74186.github.io/2048-Game
 
+###🚀 Bill-VPN
+
+**中文名称**: 比尔加速器<br>
+**项目简绍**: 稳定快速的 VPN 代理服务<br>
+**仓库仓库**: https://github.com/bill74186/Bill-VPN<br>
+**下载地址**: https://github.com/bill74186/bill-VPN/releases/
+
 ### ⏰ Nice-Clock
 
 **中文名称**: 漂亮闹钟<br>
@@ -71,12 +79,6 @@
 **仓库仓库**: https://github.com/bill74186/SVG-Viewer<br>
 **在线体验**: https://bill74186.github.io/SVG-Viewer
 
-### ⛔ nothing-else
-
-**中文名称**: 没有其他项目了<br>
-**项目简绍**: There are no other projects<br>
-**项目仓库**: 只是为了添字数罢了👴<br>
-**在线体验**: Just to add words, haha😁
 
 ## 📊 GitHub 数据展示
 

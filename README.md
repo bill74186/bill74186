@@ -26,7 +26,8 @@
 **Motto**: Your goals decide what kind of person you'll become!
 
 > [!note]
-> I am keen on iterating open-source works. I hold extremely strict standards for UI layout, spacing specification, code cleanliness and security encryption.
+> I am keen on iterating open-source works. I hold extremely strict standards for UI layout, spacing specification, code cleanliness and security encryption.<br>
+> Currently trying to get into areas related to web games and apps.
 
 ## 🛠 Tech Stack
 
@@ -57,6 +58,13 @@
 **Repository**: https://github.com/bill74186/2048-Game<br>
 **Online Demo**: https://bill74186.github.io/2048-Game
 
+###🚀 Bill-VPN
+
+**Chinese Name**: 比尔加速器<br>
+**Introduction**: 稳定快速的 VPN 代理服务<br>
+**Repository**: https://github.com/bill74186/Bill-VPN<br>
+**Download**: https://github.com/bill74186/bill-VPN/releases/
+
 ### ⏰ Nice-Clock
 
 **Chinese Name**: 漂亮闹钟<br>
@@ -70,13 +78,6 @@
 **Introduction**: A project where you can view SVG icons offline<br>
 **Repository**: https://github.com/bill74186/SVG-Viewer<br>
 **Online Demo**: https://bill74186.github.io/SVG-Viewer
-
-### ⛔ nothing-else
-
-**Chinese Name**: 没有其他项目了<br>
-**Introduction**: There are no other projects<br>
-**Repository**: Just padding content👴<br>
-**Online Demo**: Just to add words, haha😁
 
 ## 📊 GitHub Statistics
 
